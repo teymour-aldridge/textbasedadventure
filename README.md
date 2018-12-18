@@ -1,3 +1,2 @@
-# textbasedadventure
-A text based adventure app. 
-# NOTE: UNREADY FOR USE. 
+# Textbasedadventure
+A not-working text based adventure game, written with Flask. 
